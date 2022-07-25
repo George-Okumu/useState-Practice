@@ -4,17 +4,17 @@
 - After cloning run this in your terminal or command prompt
 ``` 
 $ npm install
-
 ```
 
 - and then
 
 ``` 
 $ npm start
-
 ```
 
 ## Important, 
 ```
 - Learn some Tailwind CSS 
+- Understand Props and Use State
+
 ```
